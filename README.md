@@ -1,7 +1,7 @@
 # sigma.js
 
-## Usage
+## Build
 
 ```bash
-npx parcel index.html
+npx parcel build index.html --no-source-maps --public-url .
 ``` 
