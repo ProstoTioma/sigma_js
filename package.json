@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@sigma/node-image": "^3.0.0-beta.12",
+    "graphology": "^0.25.4",
+    "sigma": "^3.0.0-beta.29"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
